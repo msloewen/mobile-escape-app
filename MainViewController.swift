@@ -1,7 +1,9 @@
 //
 //  MainViewController.swift
 //  Mobile Escape
-//
+//  This .Swift files takes in assets from an xCode file, configured as a grid of buttons.
+//  When these buttons are pressed in a particular order, the console updates with the next
+//  set of instructions and provides other useful feedback such as hints or incorrect input.
 //  Created by Mark S. Loewen on 2017-03-01.
 //  Copyright © 2017 Paul Harvey. All rights reserved.
 //
